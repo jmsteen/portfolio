@@ -2000,7 +2000,7 @@ input, select, textarea {
 		.item a img {
 			width: 100%;
 		}
-		
+
 		.item header {
 			background: #fff;
 			margin: 0;
@@ -2663,6 +2663,7 @@ input, select, textarea {
 
 	.john-contact {
 		margin: 10px;
+		display: inline-block;
 	}
 
 	hr {
