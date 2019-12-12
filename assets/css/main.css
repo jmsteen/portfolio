@@ -1997,7 +1997,10 @@ input, select, textarea {
 		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.13);
 		margin-bottom: 40px;
 	}
-
+		.item a img {
+			width: 100%;
+		}
+		
 		.item header {
 			background: #fff;
 			margin: 0;
